@@ -1,0 +1,68 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.one {
+ margin-top:0em;
+  margin-bottom:0em;
+  display:inline;
+  float:left;
+  }
+  
+  .two h1{
+	background-color: #CFCFCF;
+	margin-bottom:0em;
+	margin-top: 0em;
+	
+	
+  }
+  .one img{
+  margin-bottom:0em;
+	margin-top: 0em;
+  }
+  
+  .one h1{
+   margin-bottom:0em;
+	margin-top: 0em;
+	background-color: #000000;
+	color:#fff;
+	height:80px;
+  }
+  .two p {
+  margin-top:0em; margin-bottom:0em;
+  height: 647px;
+  width: 564px;
+    display:inline;
+  	float: left;
+  	font-size:20px;
+  	background-color: #CFCFCF;
+  }
+  .skills h1{
+  background-color: #000000;
+  color:#fff;
+  }
+
+  .academic p{
+margin-bottom:10px;
+  float: left;
+  	font-size:20px;
+  	color: #000;
+  	background-color: #CFCFCF ;
+  }
+  
+  .academic1 p{
+  margin-top:10px; margin-bottom:10px;
+  	background-color: #353535 ;
+  float: left;
+  	font-size:20px;
+  color: #fff;
+  }
+  
